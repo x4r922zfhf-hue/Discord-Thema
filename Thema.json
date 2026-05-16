@@ -236,8 +236,8 @@
   },
   "background": {
     "url": "https://i.postimg.cc/HL7z5R0Q/IMG-8527.jpg",
-    "blur": 0,
-    "alpha": 0,
+    "blur": 0.1,
+    "alpha": 0.1,
     "size": "cover",
     "position": "center"
   },
